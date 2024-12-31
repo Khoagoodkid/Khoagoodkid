@@ -42,10 +42,26 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
+<a href="https://github.com/Khoagoodkid/weather-wizard">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=weather-wizard&theme=radical" />
 </a> 
+
+<a href="https://github.com/Khoagoodkid/ChatterSphere">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=ChatterSphere&theme=radical" />
+</a> 
+
+<a href="https://github.com/Khoagoodkid/quiz-crafters">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=quiz-crafters&theme=radical" />
+</a> 
+
+<a href="https://github.com/Khoagoodkid/portfolio">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=portfolio&theme=radical" />
+</a>
+
 ###
 
 <br clear="both">
