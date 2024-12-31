@@ -81,10 +81,7 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=portfolio&theme=radical" />
 </a>
 
-<a href="https://github.com/Khoagoodkid/Climate-change-sentiment-analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=Climate-change-sentiment-analysis&theme=radical" />
-</a>
+
 
 ###
 
