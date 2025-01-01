@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm James from Vietnam, a student in University of Manitoba pursuing Bachelor of Science. I'm greatly passionate in Web Development, Machine Learning and partly Game Development. I always look forward to working on any projects related to my interest</p>
+<p align="left">I'm Khoa/James from Vietnam, a student in University of Manitoba pursuing Bachelor of Science. I'm greatly passionate in Web Development, Machine Learning and partly Game Development. I always look forward to working on any projects related to my interest</p>
 
 ###
 
