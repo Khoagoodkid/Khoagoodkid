@@ -61,6 +61,11 @@
 
 <h3 align="left">🔥   My Projects :</h3>
 
+<a href="https://github.com/Khoagoodkid/Telegram-AI-bot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=Telegram-AI-bot&theme=radical" />
+</a>
+
 <a href="https://github.com/Khoagoodkid/weather-wizard">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=weather-wizard&theme=radical" />
