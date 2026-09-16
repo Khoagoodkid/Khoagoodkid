@@ -66,9 +66,9 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=snazzy-fit-client&theme=radical" />
 </a>
 
-<a href="https://github.com/Khoagoodkid/Telegram-AI-bot">
+<a href="https://github.com/Khoagoodkid/code-review-platform-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=Telegram-AI-bot&theme=radical" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=code-review-platform-client&theme=radical" />
 </a>
 
 <a href="https://github.com/Khoagoodkid/PDF-chat-bot">
