@@ -61,6 +61,11 @@
 
 <h3 align="left">🔥   My Projects :</h3>
 
+<a href="https://github.com/Khoagoodkid/soccer-player-detection">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=soccer-player-detection&theme=radical" />
+</a>
+
 <a href="https://github.com/Khoagoodkid/snazzy-fit-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=snazzy-fit-client&theme=radical" />
@@ -91,10 +96,7 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=quiz-crafters&theme=radical" />
 </a> 
 
-<a href="https://github.com/Khoagoodkid/portfolio">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Khoagoodkid&repo=portfolio&theme=radical" />
-</a>
+
 
 <a href="https://github.com/Khoagoodkid/Climate-change-sentiment-analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
